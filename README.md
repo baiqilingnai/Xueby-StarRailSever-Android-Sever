@@ -1,6 +1,8 @@
 # Xueby-StarRailSever-Android-Sever:适用于安卓本地运行的星穹铁道一建端
 适用于安卓本地运行的星穹铁道一建端
 
+下载https://github.com/baiqilingnai/Xueby-StarRailSever-Android-Sever/releases/download/v1.1.0/Xueby-SR.zip
+
 1.安装好zerotrrmux，然后打开zerotermux给予所有权限，安装MT管理器找到路径/storage/emulated/0/xinhao/data/          
 
 2.把休比SR安卓本地一建端（9号更新）.tar.gz移动进
