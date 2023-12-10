@@ -1,4 +1,4 @@
-# Xueby-StarRailSever-Android-Sever:适用于安卓本地运行的星穹铁道一建端
+# Xueby-StarRailSever-Android-Sever:适用于安卓本地运行的星穹铁道一建端 by休比
 适用于安卓本地运行的星穹铁道一建端 by休比
 
 下载https://github.com/baiqilingnai/Xueby-StarRailSever-Android-Sever/releases/download/v1.1.0/Xueby-SR.zip
