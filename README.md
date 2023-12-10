@@ -31,3 +31,6 @@
 
 
  4.By Hueby Forgot to say, go into the game and click on the pop-up window to set the address. Restart the game http://127.0.0.1:2023.
+
+免责声明
+本程序是基于Github开源项目https://github.com/Melledy/LunarCore制作的 崩坏:星穹铁道 一键服务端，仅供研究交流用，禁止用于商业及非法用途。使用本软件造成的事故与损失，与作者无关。本程序完全免费，如果您是花钱买的，说明您被骗了。请尽快退款，以减少您的损失。
