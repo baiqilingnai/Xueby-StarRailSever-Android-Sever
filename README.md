@@ -16,7 +16,7 @@
 时间有限就不做视频教程了，视频教程可以参考休比的原神安卓本地（有缘再见）
                                by Hueby（休比）
  4.忘记说了，进去游戏点开弹窗设置地址
- http://127.0.0.1:2023   重启游戏进去即可
+ http://127.0.0.1:2024   重启游戏进去即可
 
  
 
@@ -32,7 +32,7 @@
  Time is limited not to do the video tutorial, video tutorial can refer to the original God Android local Huby (fate goodbye)
 
 
- 4.By Hueby Forgot to say, go into the game and click on the pop-up window to set the address. Restart the game http://127.0.0.1:2023.
+ 4.By Hueby Forgot to say, go into the game and click on the pop-up window to set the address. Restart the game http://127.0.0.1:2024.
 
 免责声明
 
